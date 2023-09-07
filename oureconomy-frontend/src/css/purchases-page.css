@@ -1,0 +1,10 @@
+.purchases-page {
+    display: flex;
+    flex-direction: column;
+}
+
+.person-display {
+    width: 400px;
+    background-color: red;
+    height: 400px;
+}
