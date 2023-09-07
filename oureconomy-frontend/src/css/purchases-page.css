@@ -1,10 +1,17 @@
 .purchases-page {
     display: flex;
     flex-direction: column;
+    width: 500px;
 }
 
 .person-display {
     width: 400px;
-    background-color: red;
+    background-color: #a9c5da;
     height: 400px;
+    margin: 30px;
+}
+
+.person-name {
+    font-size: 30px;
+    margin: 20px 0 0 0;
 }

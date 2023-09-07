@@ -1,10 +1,12 @@
-.App {
+.app {
+  display: grid;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.page-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .app-header {

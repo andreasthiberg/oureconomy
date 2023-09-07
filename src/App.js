@@ -1,5 +1,5 @@
 import './css/app.css';
-import PageContainer from './components/pageContainer';
+import PurchasesPage from './components/purchasesPage';
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
           our <span className="page-title-coloring">economy</span>
         </p>
       </header>
-      <PageContainer/>
+      <PurchasesPage/>
     </div>
     
   );
