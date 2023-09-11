@@ -1,5 +1,6 @@
 import '../css/purchases-page.css';
 import PurchaseItemList from './purchaseItemList';
+import AddExpenseButton from './addExpenseButton';
 
 function PersonDisplay(props) {
   return (
@@ -10,6 +11,8 @@ function PersonDisplay(props) {
           </p>
         </div>
         <PurchaseItemList/>
+        <AddExpenseButton/>
+
     </div>
     
   );

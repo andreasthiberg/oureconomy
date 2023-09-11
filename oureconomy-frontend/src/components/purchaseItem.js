@@ -1,7 +1,7 @@
 function purchaseItem(props) {
   return (
     <div className="purchase-item">
-        {props.amount}
+        {props.desc} - {props.amount}
     </div>
     
   );

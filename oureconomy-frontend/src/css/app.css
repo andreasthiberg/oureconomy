@@ -1,6 +1,7 @@
 .app {
   display: grid;
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .page-container {
@@ -21,7 +22,7 @@
 
 .page-title {
   font-family: 'Montserrat', sans-serif;
-  font-size: 46px;
+  font-size: 40px;
   font-weight: 800;
 }
 
